@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"edu.nvcc.csc.csc200.car","l":"car"},{"p":"edu.nvcc.csc.csc200.car","l":"carDriver"}]
